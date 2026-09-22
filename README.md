@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, eu sou a Isabela 👋
 
-<!--
-**IsabelaMontandon/IsabelaMontandon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estudante de Ciência e Tecnologia e Ciência da Computação na UNIFESP
+- Interessada em tecnologia, desenvolvimento e resolução de problemas
+- Atualmente aprofundando meus conhecimentos em UX/UI, desenvolvimento web e banco de dados
+- Busco aprender na prática e transformar ideias em soluções
 
-Here are some ideas to get you started:
+## 💻 Tecnologias e ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Desenvolvimento
+HTML | CSS | JavaScript | TypeScript | Python | C | SQL
+
+### UX/UI
+Figma | Wireframes | Prototipagem | Design de Interfaces
+
+### Soluções e automação
+Power Apps | Power Automate | Power Pages | Dynamics 365
+
+### Ferramentas
+Git | GitHub | Power BI | Excel | VS Code
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/SEU-LINKEDIN)
+
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:SEU-EMAIL)
