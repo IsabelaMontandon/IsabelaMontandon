@@ -7,17 +7,10 @@
 
 ## 💻 Tecnologias e ferramentas
 
-### Desenvolvimento
-HTML | CSS | JavaScript | TypeScript | Python | C | SQL
-
-### UX/UI
-Figma | Wireframes | Prototipagem | Design de Interfaces
-
-### Soluções e automação
-Power Apps | Power Automate | Power Pages | Dynamics 365
-
-### Ferramentas
-Git | GitHub | Power BI | Excel | VS Code
+**Desenvolvimento:** HTML | CSS | JavaScript | TypeScript | Python | C | SQL  
+**UX/UI:** Figma | Wireframes | Prototipagem | Design de Interfaces  
+**Soluções e automação:** Power Apps | Power Automate | Power Pages | Dynamics 365  
+**Ferramentas:** Git | GitHub | Power BI | Excel | VS Code  
 
 ## 📫 Contato
 
